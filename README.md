@@ -1,16 +1,31 @@
-# word_learner
+Word Learner App
 
-A new Flutter project.
+Word Learner — це простий та елегантний мобільний додаток, створений за допомогою Flutter, для ефективного вивчення нових слів. Організовуйте слова за категоріями, імпортуйте готові набори слів, тренуйте пам'ять за допомогою карток та відстежуйте свій прогрес.
 
-## Getting Started
+Примітка: Вам потрібно буде завантажити власне зображення (як описано нижче) і замінити посилання.
 
-This project is a starting point for a Flutter application.
+🚀 Основні можливості
 
-A few resources to get you started if this is your first Flutter project:
+Керування категоріями: Створюйте власні категорії для групування слів за темами.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Додавання слів: Легко додавайте нові слова, їх переклад та приклади використання.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Імпорт слів: Імпортуйте слова у свої категорії з .txt файлів або використовуйте готові набори слів, що є в додатку.
+
+Режим вивчення: Ефективно запам'ятовуйте слова за допомогою інтерактивних карток.
+
+Статистика: Відстежуйте свій прогрес за допомогою наочної статистики: скільки слів вивчено, а скільки ще в процесі.
+
+Світла та темна теми: Комфортне використання в будь-який час доби.
+
+🛠️ Технології
+
+Framework: Flutter
+
+Локальне сховище: Hive
+
+Бібліотеки:
+
+file_picker - для імпорту файлів
+
+fl_chart - для відображення статистики
